@@ -1,0 +1,7 @@
+{
+  "name": "node-echo", // 包名，在NPM服务器上须要保持唯一
+  "main": "./lib/echo.js", //入口模块位置
+  "dependencies": {
+    "argv": "0.0.2"
+  }
+}
